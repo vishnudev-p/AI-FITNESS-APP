@@ -72,29 +72,31 @@ The **AI Fitness App** is an intelligent fitness tracking application that uses 
 6. **Toggle Theme**:
    - Use the toggle button in the login screen to switch between dark and light themes.
 
-## Screenshots
-Below are placeholders for screenshots to showcase the app's interface. To add screenshots, capture the following screens and place the images in a `screenshots` folder in the repository. Update the paths below accordingly.
+## 📸 Screenshots
 
-- **Login Page**:
-  ![Login Page](screenshots/1.png)
-  *Description*: The initial login interface with username, password fields, and theme toggle.
+Visual previews of the AI Fitness App interface:
 
-- **Signup Page**:
-  ![Signup Page](screenshots/2.png)
-  *Description*: The signup interface for creating a new user account with username, password, and confirm password fields.
+### 🔐 Login Page
+![Login Page](screenshots/1.PNG)  
+*Description*: The initial login interface with username, password fields, and theme toggle.
 
-- **Home Page**:
-  ![Home Page](screenshots/3.png)
-  *Description*: The exercise selection screen where users choose between Push-Up, Hammer Curl, or Squat.
+### 📝 Signup Page
+![Signup Page](screenshots/2.PNG)  
+*Description*: The signup interface for creating a new user account with username, password, and confirm password fields.
 
-- **Pushup Hammer Curl Interface**:
-  ![Pushup Hammer Curl Interface](screenshots/4.png)
-  *Description*: The interface for selecting real-time workout or video upload for Push-Up or Hammer Curl exercises.
+### 🏠 Home Page
+![Home Page](screenshots/3.PNG)  
+*Description*: The exercise selection screen where users choose between Push-Up, Hammer Curl, or Squat.
 
-- **Output Interface**:
-  ![Output Interface](screenshots/5.png)
-  *Description*: The real-time exercise tracking window showing pose estimation, rep counts, and feedback overlays.
+### 🏋️ Push-Up / Hammer Curl Interface
+![Pushup Hammer Curl Interface](screenshots/4.PNG)  
+*Description*: Interface for selecting real-time workout or video upload for Push-Up or Hammer Curl.
 
+### 📊 Output Interface
+![Output Interface](screenshots/5.PNG)  
+*Description*: Real-time tracking window showing pose estimation, rep counts, and feedback overlays.
+
+---
 *Instructions for Adding Screenshots*:
 1. Create a `screenshots` folder in the project directory.
 2. Capture screenshots of the app (e.g., using a screen capture tool).
